@@ -19,6 +19,11 @@ Prerequisites
 - MySQL Server.
 - MySQL Connector/NET (MySql.Data NuGet package).
 
+Schema:
+<img width="735" height="580" alt="image" src="https://github.com/user-attachments/assets/47fd7c49-e765-4f0d-8435-10eab46c27e2" />
+
+
+Screenshots:
   <img width="478" height="638" alt="image" src="https://github.com/user-attachments/assets/c9cdda18-86d5-426f-80e1-9ac3fabd6a30" />
 
   <img width="1123" height="583" alt="image" src="https://github.com/user-attachments/assets/9cfe35aa-914a-4a2c-896a-429bde30d898" />
